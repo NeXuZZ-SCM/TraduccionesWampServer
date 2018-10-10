@@ -44,6 +44,6 @@ $langues = array(
 	'portUsed' => 'Puerto definido para Apache: ',
 	'mysqlportUsed' => 'Puerto definido para MySQL: ',
 	'mariaportUsed' => 'Puerto definido para MariaDB: ',
-	'nolocalhost' => 'Es una mala idea agregar localhost en la url de proyectos de lanzamiento. Lo mejor es definir VirtualHost en<br />wamp/bin/apache/apache%s/conf/extra/httpd-vhosts.conf<br />Archivo y no agregar localhost en la url.',
+	'nolocalhost' => 'Es una mala idea agregar localhost en la url de proyectos de lanzamiento. Lo mejor es definir VirtualHost en el archivo <br />wamp/bin/apache/apache%s/conf/extra/httpd-vhosts.conf<br /> y no agregar localhost en la url.',
 	);
 ?>
